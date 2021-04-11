@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.header{
+    color: rgb(0, 211, 0);
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    }
+.trucker_sign{
+    color:whitesmoke;
+    background-color: darkblue;
+    width: 50%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.trucker_book{
+    color: rgb(255, 255, 255);
+    background-color: darkolivegreen;
+    width: 50%;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+.middle_content{
+    overflow: hidden;
+}
+.main_content{
+    color: whitesmoke;
+    background-color:darkred;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.footer{
+    color: rgb(0, 0, 0);
+    background-color: rgb(223, 160, 0);
+    text-align: center;
+    height: 100px;
+    text-align: center;
+}
